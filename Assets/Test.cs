@@ -15,7 +15,7 @@ public class Test : MonoBehaviour {
 	void Start () {
 
 		//要素の個数が5の、int型の配列arrayを宣言して好きな値で初期化
-		int[] array = { 11, 22, 33, 44, 55 };
+		int[] array = { 12, 22, 32, 42, 52 };
 
 		//for文を使い、配列の各要素の値を順番に表示
 		for (int i = 0; i < 5; i++)
